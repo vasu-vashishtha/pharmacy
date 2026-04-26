@@ -8,7 +8,7 @@ const facultyMembers = [
     id: 1,
     name: "Dr. Vaishali Manikrao Patil",
     role: "Associate Professor & Principal / H.O.D.",
-    image: "https://cdn.ccsuniversity.ac.in/cv/jpg/F-vmp.jpg",
+    image: "https://cdn.ccsuniversity.ac.in/cv/jpg/vaishali.jpg",
     profileLink: "#",
   },
   {

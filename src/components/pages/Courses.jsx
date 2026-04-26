@@ -46,7 +46,7 @@ const programs = [
   {
     id: "mpharm",
     label: "C",
-    title: "M.Pharm (Proposed)",
+    title: "M.Pharm",
     fullTitle: "Master of Pharmacy",
     duration: "2 Years (4 Semesters)",
     seats: "15 Seats (Proposed)",
@@ -283,7 +283,7 @@ const Courses = () => {
               Ready to start your pharmacy career?
             </h3>
             <p className="mt-2 text-blue-200 text-sm sm:text-base">
-              Applications for 2025-26 session are now open. Limited seats available.
+              Applications for 2026-27 session are now open. Limited seats available.
             </p>
           </div>
           <div className="flex flex-wrap gap-3 shrink-0">

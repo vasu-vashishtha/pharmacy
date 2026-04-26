@@ -36,7 +36,7 @@ const slides = [
   },
   {
     id: 3,
-    title: "Admissions Open 2025",
+    title: "Admissions Open 2026",
     subtitle: "B.Pharm, B.Pharm Lateral Entry & M.Pharm (Proposed) — Apply before the deadline",
     badge: "Join Our Community",
     cta: "Apply Now",
