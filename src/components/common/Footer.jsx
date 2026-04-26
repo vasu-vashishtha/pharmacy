@@ -9,7 +9,7 @@ import ccsu from '../../assets/images/ccsu_logo.png';
 const courses = [
   { label: "B.Pharm", path: "/admission/programs" },
   { label: "B.Pharm (Lateral Entry)", path: "/admission/programs" },
-  { label: "M.Pharm (Proposed)", path: "/admission/programs" },
+  { label: "M.Pharm", path: "/admission/programs" },
 ];
 
 const quickLinks = [
