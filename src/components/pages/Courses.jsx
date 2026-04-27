@@ -46,7 +46,7 @@ const programs = [
   {
     id: "mpharm",
     label: "C",
-    title: "M.Pharm",
+    title: "M Pharm - Pharmaceutical Chemistry/M Pharm - Pharmaceutics",
     fullTitle: "Master of Pharmacy",
     duration: "2 Years (4 Semesters)",
     seats: "15 Seats (Proposed)",
